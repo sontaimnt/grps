@@ -7,6 +7,7 @@ A Rock Paper Scissors in Golang
 - [x] player1 vs player2
 - [x] replay
 - [ ] use `string` in place of `int` in `y/n`
+- [ ] recurse when user does not give proper input
 
 # install:-
 
